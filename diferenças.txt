@@ -9,7 +9,7 @@ Second file: "C:\Users\Carlos\Downloads\tomadadefeito.bin"
 Shift: 0
 Shift: 0
 ------------------------------------------------------------------------
-
+              Firmware bom.		     Firmware corrompido.
 00000000 | 99    96 96 3F CC 66 FC | 00000000 | 90    00 10 10 C0 00 10 |
 00000008 | 3C 0D                08 | 00000008 | 30 09                00 |
 00000010 | FF FF FF FF FF FF FF FF | 00000010 | 10 E1 01 10 B0 F9 01 10 |
